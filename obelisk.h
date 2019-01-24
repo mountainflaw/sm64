@@ -3,7 +3,7 @@
  * this file adds:
  * - basic lighting controls for mario and levels
  * - useful defines
- * these coded computer instructions are licensed under the bsd 3 license
+ * these coded computer instructions are licensed under the bsd license
  */
 
 // if guards
